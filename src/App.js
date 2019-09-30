@@ -9,6 +9,11 @@ import Cart from "./components/Cart";
 import Default from './components/Default';
 import Modal from './components/Modal';
 
+// TODO - Migrate text to separate file
+// TODO - Migrate css to scss
+// TODO - Add Info Page with: Google maps, contact details with links
+// TODO - Add contact form
+
 function App() {
   return (
       <React.Fragment>
