@@ -2,37 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b872809-1594-4451-a68d-6a52d75fa7a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Title.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Cart/CartColumns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Cart/CartItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Cart/CartList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Cart/EmptyCart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Cart/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/imgs/galaxy_note.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/imgs/galaxy_s.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/imgs/nike_air_force.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/imgs/nike_air_force_sage_low.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/imgs/nike_air_max.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/imgs/nike_air_max_2000.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/imgs/nike_air_max_dia.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/imgs/nike_p_6000_se.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/imgs/nike_shox_enigma_9000.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/imgs/nike_shox_tl.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/imgs/nike_zoom_gravity.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/imgs/nike_zoom_x_vista.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Context.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cart/Cart.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
