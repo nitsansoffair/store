@@ -1,7 +1,7 @@
 export const storeProducts = [
     {
         id: 1,
-        title: "Galaxy A - color",
+        title: "Galaxy A",
         img: "../imgs/galaxy_a.png",
         price: 10,
         company: "Samsung",
@@ -12,7 +12,7 @@ export const storeProducts = [
     },
     {
         id: 2,
-        title: "Galaxy Note - color",
+        title: "Galaxy Note",
         img: "../imgs/galaxy_note.png",
         price: 11,
         company: "Samsung",
@@ -23,7 +23,7 @@ export const storeProducts = [
     },
     {
         id: 3,
-        title: "Galaxy S - color",
+        title: "Galaxy S",
         img: "../imgs/galaxy_s.png",
         price: 12,
         company: "Samsung",
@@ -36,11 +36,11 @@ export const storeProducts = [
 
 export const detailProduct = {
     id: 1,
-    title: 'Google Pixel - Black',
-    img: '../imgs/galaxy_a.png',
+    title: "Galaxy A",
+    img: "../imgs/galaxy_a.png",
     price: 10,
-    company: 'Google',
-    info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aliquam assumenda esse facere harum ipsa iure magni minima nihil odit pariatur quia quibusdam sed sequi sint sunt, tempora temporibus veritatis.',
+    company: "Samsung",
+    info: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque beatae, dignissimos dolore eaque eius eos harum magnam nisi odio odit optio perferendis placeat quaerat, quidem, quod rerum sed temporibus velit?",
     inCart: false,
     count: 0,
     total: 0
